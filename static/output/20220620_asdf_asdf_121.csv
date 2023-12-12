@@ -1,0 +1,18 @@
+"Product Name",Side,Color,Base,Price,Quantity,Subtotal
+"DPA - Dial & Reel & Cover & Base",Right,Black,Eyestay,"$ 1.50",32,"$ 48.00"
+,,,,,Total,"$ 48.00"
+
+Consignee 
+Attn,Tel,Address
+"John Doe",(+82)010-8255-3057,"John Doe Street"
+
+Notify 
+Attn,Tel,Address
+,,
+
+"Due Date","Carrier Type","Billing Number",POD,"Customer P/O No."
+2022-12-31,Ocean,,Busan,SDF123456789
+
+"Company: ",asdf
+"Customer: ",asdf
+"Date of Purchase: ",2022-06-20

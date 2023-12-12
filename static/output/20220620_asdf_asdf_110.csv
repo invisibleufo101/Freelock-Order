@@ -1,0 +1,18 @@
+"Product Name",Side,Color,Base,Price,Quantity,Subtotal
+G16,,Black,,"$ 0.05",32,"$ 1.60"
+,,,,,Total,"$ 1.60"
+
+Consignee 
+Attn,Tel,Address
+"John Doe",(+82)010-8255-3057,"John Doe Street"
+
+Notify 
+Attn,Tel,Address
+,,
+
+"Due Date","Carrier Type","Billing Number",POD,"Customer P/O No."
+2022-12-31,Ocean,,Busan,SF123456789
+
+"Company: ",asdf
+"Customer: ",asdf
+"Date of Purchase: ",2022-06-20

@@ -1,0 +1,11 @@
+ProductName,Side,Color,Base,Price,Quantity,Subtotal
+"DPA - Dial & Reel & Cover & Base",Right,Black,Tongue,"$ 1.50",3300,"$ 4950.00"
+"MPK - Dial & Base",Left,Black,Tongue,"$ 1.50",2300,"$ 3450.00"
+"MPK - Dial & Base",Right,Black,Tongue,"$ 1.50",2300,"$ 3450.00"
+G14,,Black,,"$ 0.05",3200,"$ 160.00"
+G54,,Black,,"$ 0.05",3300,"$ 165.00"
+G61,,Black,,"$ 0.05",2300,"$ 115.00"
+W83,,Black,,"$ 0.40",300,"$ 120.00"
+,,,,,Total,"$ 12410.00"
+
+,,Customer,thomas,,"Date of Purchase",2022-06-09

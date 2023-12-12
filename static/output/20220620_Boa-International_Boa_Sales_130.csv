@@ -1,0 +1,22 @@
+"Product Name",Side,Color,Base,Price,Quantity,Subtotal
+"HP - Dial & Reel & Cover & Base",Right,Black,Tongue,"$ 1.70",334,"$ 567.80"
+"MPK - Dial & Base",Right,Black,Eyestay,"$ 1.50",667,"$ 1000.50"
+G61,,Black,,"$ 0.05",334,"$ 16.70"
+G62-8,,Black,,"$ 0.05",896,"$ 44.80"
+W83,,White,,"$ 0.40",344,"$ 137.60"
+,,,,,Total,"$ 1767.40"
+
+Consignee 
+Attn,Tel,Address
+"Boa Sales",(+82)010-8255-3057,"BOA Technology Inc. 3575 Ringsby Court, Suite 200 Denver, CO 80216 OFFICE +1 303 455 5126"
+
+Notify 
+Attn,Tel,Address
+,,
+
+"Due Date","Carrier Type","Billing Number",POD,"Customer P/O No."
+2022-07-20,Ocean,,Dallas,BOA178401
+
+"Company: ",Boa-International
+"Customer: ",Boa_Sales
+"Date of Purchase: ",2022-06-20

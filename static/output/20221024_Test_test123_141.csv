@@ -1,0 +1,19 @@
+"Product Name",Side,Color,Base,Price,Quantity,Subtotal
+G14,,White,,"$ 0.05",322,"$ 16.10"
+G61,,Black,,"$ 0.05",322,"$ 16.10"
+,,,,,Total,"$ 32.20"
+
+Consignee 
+Attn,Tel,Address
+"John Doe",(+82)010-8255-3057,"John Doe Street"
+
+Notify 
+Attn,Tel,Address
+,,
+
+"Due Date","Carrier Type","Billing Number",POD,"Customer P/O No."
+2022-12-30,Ocean,,Busan,TY12345678
+
+"Company: ",Test
+"Customer: ",test123
+"Date of Purchase: ",2022-10-24

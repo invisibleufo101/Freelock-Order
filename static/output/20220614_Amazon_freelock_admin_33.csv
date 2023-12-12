@@ -1,0 +1,13 @@
+"Product Name",Side,Color,Base,Price,Quantity,Subtotal
+"DPA - Dial & Reel & Cover & Base",Right,Black,Eyestay,"$ 1.50",123,"$ 184.50"
+"DPB - Dial & Reel & Cover & Base",Left,Black,Eyestay,"$ 1.30",1234,"$ 1604.20"
+"DPB - Dial & Reel & Cover & Base",Right,Black,Eyestay,"$ 1.30",1234,"$ 1604.20"
+G14,,Black,,"$ 0.05",123,"$ 6.15"
+,,,,,Total,"$ 3399.05"
+
+Consignee 
+Attn,Tel,Address
+"John Doe",(+82)010-8255-3057,"John Doe Street"
+Notify 
+Attn,Tel,Address
+"Jane Doe",(+82)010-8255-3057,"Jane Doe Street"

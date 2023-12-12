@@ -1,0 +1,14 @@
+"Product Name",Side,Color,Base,Price,Quantity,Subtotal
+"DPA - Dial & Reel & Cover & Base",Left,Black,Eyestay,"$ 1.50",32,"$ 48.00"
+"DPA - Dial & Reel & Cover & Base",Right,Black,Eyestay,"$ 1.50",32,"$ 48.00"
+,,,,,Total,"$ 96.00"
+
+Consignee 
+Attn,Tel,Address
+"John Doe",(+82)010-8255-3057,"John Doe Street"
+Notify 
+Attn,Tel,Address
+"Jane Doe",(+82)010-8255-3057,"Jane Doe Street"
+"Due Date","Shipping Type","Carrier Type","Billing Number",POD,"Customer P/O No."
+2022-12-31,F.O.B,FEDEX,123456,Busan,123456
+"Company: ",Amazon,,"Customer: ",freelock_admin,,"Date of Purchase: ",2022-06-14

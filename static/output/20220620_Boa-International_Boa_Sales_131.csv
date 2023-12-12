@@ -1,0 +1,18 @@
+"Product Name",Side,Color,Base,Price,Quantity,Subtotal
+"DPA - Dial & Reel & Cover & Base",Right,Black,Eyestay,"$ 1.50",1,"$ 1.50"
+,,,,,Total,"$ 1.50"
+
+Consignee 
+Attn,Tel,Address
+"Boa Sales",(+82)010-8255-3057,"BOA Technology Inc. 3575 Ringsby Court, Suite 200 Denver, CO 80216 OFFICE +1 303 455 5126"
+
+Notify 
+Attn,Tel,Address
+,,
+
+"Due Date","Carrier Type","Billing Number",POD,"Customer P/O No."
+2022-07-14,Ocean,,Dallas,SDF123456789
+
+"Company: ",Boa-International
+"Customer: ",Boa_Sales
+"Date of Purchase: ",2022-06-20

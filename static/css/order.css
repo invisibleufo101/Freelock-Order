@@ -1,0 +1,44 @@
+#color_err, #base_err, #qty_err {
+    display: none; 
+    font-size: 12px; 
+}
+
+#color_err.visible, #base_err.visible, #qty_err.visible{
+    color: red;
+    display: block;
+}
+
+#product_color.error, #product_base.error, #product_qty.error {
+    border-color: red;
+    border-radius: 6px;
+}
+
+button[type="submit"]:hover{
+    opacity: 0.5;
+}
+
+#ship_err {
+    display: none;
+    font-size: 12px;
+}
+
+#ship_err.visible {
+    color: red;
+    display: block;
+}
+
+#con_name.error,
+#con_tel.error,
+#con_address.error,
+#noti_name.error,
+#noti_tel.error,
+#noti_address.error,
+#ready-date.error,
+#pod.error,
+#carrier.error,
+#bill-number.error,
+#po_number.error {
+    border-color: red;
+    border-radius: 6px;
+}
+
