@@ -239,17 +239,15 @@ $customer_email = $result['email'];
 $mail->addAddress('ihasdag@gmail.com');
 
 // email reference for other employees
-// $mail->AddCC('sales@skcni.net', iconv("UTF-8", "EUC-KR", "박승원")); <------------------
-// $mail->AddCC('export@skcni.net', iconv("UTF-8", "EUC-KR", "김주관")); <------------------
-// $mail->AddCC('export2@skcni.net', iconv("UTF-8", "EUC-KR", "하승우")); <------------------
+$mail->AddCC('example@example.com', iconv("UTF-8", "EUC-KR", "홍길동 사원")); 
 
 //Set the subject line
 $mail->Subject = 'Freelock Order Form Confirmation Email';
 // $mail->Subject = 'Freelock Orderform Confirmation Email';
 
 //Replace the plain text body with one created manually
-$mail->Body = "Your purchase order is attached to this mail.\nThis is an automated message from https://freelockorder.com";
-$mail->AltBody = "Your purchase order is attached to this mail.\nThis is an automated message from https://freelockorder.com";
+$mail->Body = "Your purchase order is attached to this mail.\nThis is an automated message from Freelock Order";
+$mail->AltBody = "Your purchase order is attached to this mail.\nThis is an automated message from Freelock Order";
 
 //Attach file
 $mail->addAttachment($filename);
